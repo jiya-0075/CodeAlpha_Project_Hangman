@@ -17,4 +17,3 @@ This is a text-based Hangman game built in Python as part of my internship at Co
 2. Run the game in terminal:
 ```bash
 python hangman.py
-
